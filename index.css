@@ -19,19 +19,19 @@ h1 {
 #social #container ul li {
   float: left;
   padding-bottom: 120px;
-  padding-left: 80px;
+  padding-left: 120px;
   list-style-type: none;
   font-size: 40px;
 }
 
 a {
   position: relative;
-  color: #000;
+  color: DeepSkyBlue;
   text-decoration: none;
 }
 
 a:hover {
-  color: #000;
+  color: MintCream;
 }
 
 a::before {
